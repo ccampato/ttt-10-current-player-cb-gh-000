@@ -1,3 +1,4 @@
+board = [" "," "," "," "," "," "," "," "," ",]
 count = 0
 def turn_count(board)
   if board[] != " "
