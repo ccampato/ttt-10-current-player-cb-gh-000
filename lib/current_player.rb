@@ -1,7 +1,7 @@
-board = [" "," "," "," "," "," "," "," "," ",]
+board = [" "," "," "," "," "," "," "," "," "]
 count = 0
 def turn_count(board)
-  if board[index] != " "
+  if board != " "
     count += 1
   end
 end
